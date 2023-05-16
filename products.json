@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name":"COMBO MEDIANO",
+        "price":"12.90",
+        "offer":"0.5",
+        "image":"COMBO_MEDIANO.png"
+    },
+    {
+        "id": 2,
+        "name":"HUT & CHILL",
+        "price":"24.90",
+        "offer":"0.5",
+        "image":"HUT_&_CHILL.png"
+    },
+    {
+        "id": 3,
+        "name":"LASAGNA BOLOGNESA",
+        "price":"22.90",
+        "offer":"0.5",
+        "image":"LASAGNA_BOLOGNESA.png"
+    },
+    {
+        "id": 4,
+        "name":"HUT COMBO MEDIANO",
+        "price":"19.90",
+        "offer":"0.5",
+        "image":"HUT_COMBO_MEDIANO.png"
+    },
+    {
+        "id": 5,
+        "name":"COMBO COMBINADOS",
+        "price":"19.90",
+        "offer":"0.5",
+        "image":"COMBO_COMBINADOS.png"
+    },
+    {
+        "id": 6,
+        "name":"COMBO LA FIJA",
+        "price":"29.90",
+        "offer":"0.5",
+        "image":"COMBO_LA_FIJA.png"
+    },
+    {
+        "id": 7,
+        "name":"COMBINADO ROLLS",
+        "price":"29.90",
+        "offer":"0.5",
+        "image":"COMBINADO_ROLLS.png"
+    },
+    {
+        "id": 8,
+        "name":"HUT & CHILL EXTREMO",
+        "price":"39.90",
+        "offer":"0.5",
+        "image":"HUT_&_CHILL_EXTREMO.png"
+    },
+    {
+        "id": 9,
+        "name":"BANQUETE GRANDE",
+        "price":"39.90",
+        "offer":"0.5",
+        "image":"BANQUETE_GRANDE.png"
+    }
+]
